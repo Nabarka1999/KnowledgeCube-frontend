@@ -276,7 +276,7 @@ const Lecture = ({ user }) => {
                       >
                         {i + 1}. {e.title}{" "}
                         {user &&
-                          user.role === "user" &&
+                          user.role === "user" && progress[0] &&
                           progress.completedLectures.includes(
                             e._id.toString()
                           ) && <IoCheckmarkDone />}
