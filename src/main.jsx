@@ -4,7 +4,7 @@ import App from './App.jsx'
 import { UserContextProvider } from './context/UserContext.jsx';
 import { CourseContextProvider } from './context/CourseContext.jsx';
 
-export const server = 'https://knowledgecube-server-1.onrender.com'
+export const server = 'https://knowledgecube-server.onrender.com'
 
 
 // "https://4af9-103-102-117-125.ngrok-free.app"
