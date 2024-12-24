@@ -9,7 +9,7 @@ const Footer = () => {
     <footer>
         <div className="footer-content">
             <p>
-            &copy; 2024 KnowledgeCube. All rights reserved. Empowering learners worldwide with quality education and industry-leading instructors. Your success is our mission. <br/> 
+            &copy; 2024 KnowledgeCube. All rights reserved. Empowering learners worldwide with quality education and industry-leading instructors. Your success is our mission. This Website developed by Nabarka Roy. <br/> 
             </p>
             <div className="social-links">
                 <a href=""><SiGmail /></a>
